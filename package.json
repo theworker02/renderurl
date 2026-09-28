@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/renderurl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render lightweight url statistics from stdin samples.",
+  "bin": {
+    "renderurl": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/renderurl.git"
+  },
+  "homepage": "https://theworker02.github.io/renderurl/",
+  "keywords": [
+    "render",
+    "url",
+    "stat",
+    "cli",
+    "toolkit"
+  ]
+}
